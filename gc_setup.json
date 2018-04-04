@@ -1,0 +1,23 @@
+{
+  "course_setup" : {
+    "conv_matrix" : [
+      {
+        "mark" : "A+",
+        "min" : 97,
+        "max" : 100
+      },
+      {
+        "mark" : "A",
+        "min" : 93,
+        "max" : 96
+      }
+    ],
+    "grade_breakdown" : {
+      "participation": 5,
+      "assignment1" : 20,
+      "assignment2" : 25,
+      "assignment3" : 25,
+      "assignment4" : 25
+    }
+  }
+}
